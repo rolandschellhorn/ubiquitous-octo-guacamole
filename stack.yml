@@ -6,4 +6,3 @@ functions:
     lang: python3
     handler: ./hello
     image: hello:latest
-
