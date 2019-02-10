@@ -18,5 +18,5 @@ func Handle(w http.ResponseWriter, r *http.Request) {
 	}
 
 	w.WriteHeader(http.StatusOK)
-	w.Write([]byte(fmt.Sprintf("Data: %s", string(input))))
+	w.Write([]byte(fmt.Sprintf("Msg: %s", string(input))))
 }
