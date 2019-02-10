@@ -5,4 +5,4 @@ functions:
   hello:
     lang: python3
     handler: ./hello
-    image: hello:latest
+    image: hello:0.1
