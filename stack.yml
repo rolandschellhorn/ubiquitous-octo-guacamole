@@ -10,3 +10,4 @@ functions:
     lang: golang-middleware
     handler: ./middleware
     image: middleware:0.1
+
