@@ -9,4 +9,4 @@ functions:
   middleware:
     lang: golang-middleware
     handler: ./middleware
-    image: middleware:latest
+    image: middleware:0.1
